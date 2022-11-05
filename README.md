@@ -1,8 +1,8 @@
 # 16-831_Project
 
-#environment
+# environment
 
-# Name                    Version         
+# Name   and                  Version         
 absl-py                   1.3.0                    
 ale-py                    0.8.0                    
 astunparse                1.6.3                    
